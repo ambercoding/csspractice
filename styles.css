@@ -1,5 +1,5 @@
 #outside-box{
-	height: 300px;
+	height: 3000px;
 	width:  300px;
 	background-color: green;
 	top:  20px;
@@ -14,8 +14,8 @@
 	margin: auto;
 	text-align:  center;
 	position:  fixed;
-	right: 0;
-	bottom:  0;
+	right: 50%;
+	bottom:  50%;
 
 }
 #inside-box{
@@ -27,4 +27,5 @@
 	position:  absolute;
 	top: 0;
 	left: 0;
+	border-radius: 50%;
 }
